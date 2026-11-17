@@ -3,7 +3,7 @@ name = "SigmaOS-btop-gui"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "btop-gui component"
+description = "SigmaOS SigmaOS-btop-gui component"
 upstream = []
 
 [contract]
